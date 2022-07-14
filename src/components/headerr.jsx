@@ -47,9 +47,9 @@ function Headerr() {
                 </div>
                 <div class="wellcome">
                     <div class="circle"></div>
-                    <p class="small-text">سلام👋</p>
+                    <p class="small-text">سلام <span role="img" aria-label=":)">👋</span></p>
                     <p class="large-text">من <span>مریم</span> هستم.</p>
-                    <p class="small-text">طراح و توسعه دهنده وبسایت💻</p>
+                    <p class="small-text">طراح و توسعه دهنده وبسایت <span role="img" aria-label=":)">💻</span></p>
                     <img src={require("../images/Watercolor-rb.png")} alt=""></img>
                 </div>
             </div>

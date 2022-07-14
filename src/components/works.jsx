@@ -11,10 +11,10 @@ function Create_card(work){
     return(
         <SwiperSlide>
             <div class="card">
-                <a href={work.site_url} target="_blank">
+                <a href={work.site_url} target="_blank" rel="noopener noreferrer">
                 <img src={work.site_image_src} alt="" /></a>
                 <h2 class="card-heading">{work.site_title}</h2>
-                <a class="btn see-btn" href={work.site_url} target="_blank">
+                <a class="btn see-btn" href={work.site_url} target="_blank" rel="noopener noreferrer">
                     مشاهده سایت
                     <span class="iconify" data-icon="akar-icons:chevron-left" data-width="24" data-height="24"></span>              
                 </a>
