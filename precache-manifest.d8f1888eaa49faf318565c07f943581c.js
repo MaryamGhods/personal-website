@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "a5a57d11d5450b886513",
-    "url": "/personal-website/static/css/main.6dd8bc79.chunk.css"
+    "revision": "3a9b45d8d01428b11971",
+    "url": "/personal-website/static/css/main.a6c69153.chunk.css"
   },
   {
-    "revision": "a5a57d11d5450b886513",
-    "url": "/personal-website/static/js/main.a5a57d11.chunk.js"
+    "revision": "3a9b45d8d01428b11971",
+    "url": "/personal-website/static/js/main.3a9b45d8.chunk.js"
   },
   {
-    "revision": "4bb05d8fed1e4d6e8559",
-    "url": "/personal-website/static/js/1.4bb05d8f.chunk.js"
+    "revision": "98fae294dabfb7543782",
+    "url": "/personal-website/static/js/1.98fae294.chunk.js"
   },
   {
-    "revision": "62f5bc6b9e4ba2d8cf70",
-    "url": "/personal-website/static/css/2.9c16861e.chunk.css"
+    "revision": "ab36d09328bbd7a9e926",
+    "url": "/personal-website/static/css/2.32289944.chunk.css"
   },
   {
-    "revision": "62f5bc6b9e4ba2d8cf70",
-    "url": "/personal-website/static/js/2.62f5bc6b.chunk.js"
+    "revision": "ab36d09328bbd7a9e926",
+    "url": "/personal-website/static/js/2.ab36d093.chunk.js"
   },
   {
-    "revision": "b6cf602714a4a7c41406",
-    "url": "/personal-website/static/js/runtime~main.b6cf6027.js"
+    "revision": "7384d572afe8bcb59be8",
+    "url": "/personal-website/static/js/runtime~main.7384d572.js"
   },
   {
     "revision": "790d59ce48845bdb8ed9f78dafacdca8",
@@ -40,12 +40,20 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/Calculator.abb247ff.png"
   },
   {
+    "revision": "346aacd57972c4e1350dc7d9a707c978",
+    "url": "/personal-website/static/media/Personal website.346aacd5.png"
+  },
+  {
     "revision": "d2ce259cacf561a5c98e3cf42a763629",
     "url": "/personal-website/static/media/laptop3.d2ce259c.jpg"
   },
   {
-    "revision": "bd7b29f82a839b69985bc9a39aea12a5",
-    "url": "/personal-website/static/media/colorful-background.bd7b29f8.jfif"
+    "revision": "eae662b83e40fddef47761434cc0fb37",
+    "url": "/personal-website/static/media/bnazanin-webfont.eae662b8.woff"
+  },
+  {
+    "revision": "eea61f7f24e3bdc49fd1d24d3ba105b6",
+    "url": "/personal-website/static/media/bnazanin-webfont.eea61f7f.woff2"
   },
   {
     "revision": "6432364809c324199b9297576e6eafa0",
@@ -56,12 +64,8 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/colorful-background3.e0ebc00f.jfif"
   },
   {
-    "revision": "eae662b83e40fddef47761434cc0fb37",
-    "url": "/personal-website/static/media/bnazanin-webfont.eae662b8.woff"
-  },
-  {
-    "revision": "eea61f7f24e3bdc49fd1d24d3ba105b6",
-    "url": "/personal-website/static/media/bnazanin-webfont.eea61f7f.woff2"
+    "revision": "bd7b29f82a839b69985bc9a39aea12a5",
+    "url": "/personal-website/static/media/colorful-background.bd7b29f8.jfif"
   },
   {
     "revision": "0313a623c0b92aa028ae2c4018ad2909",
@@ -78,6 +82,10 @@ self.__precacheManifest = [
   {
     "revision": "1ac7bf4a0efb7f8080b49af667004017",
     "url": "/personal-website/static/media/personal.1ac7bf4a.png"
+  },
+  {
+    "revision": "925db4c1a01b86e0be75f3d9aff1c04b",
+    "url": "/personal-website/static/media/winking_face.925db4c1.gif"
   },
   {
     "revision": "4627bb3882cbd4ebd594d8da51a060a8",
@@ -104,7 +112,7 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/Moon.56f5cfcc.png"
   },
   {
-    "revision": "0af68e093b7b10c499a9a24f45e58a39",
+    "revision": "edbcbf553d4d5b709b8badcbfe85c223",
     "url": "/personal-website/index.html"
   }
 ];
