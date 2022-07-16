@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3a9b45d8d01428b11971",
-    "url": "/personal-website/static/css/main.a6c69153.chunk.css"
+    "revision": "0aeb642ed397cdb2f6a6",
+    "url": "/personal-website/static/css/main.76c039c2.chunk.css"
   },
   {
-    "revision": "3a9b45d8d01428b11971",
-    "url": "/personal-website/static/js/main.3a9b45d8.chunk.js"
+    "revision": "0aeb642ed397cdb2f6a6",
+    "url": "/personal-website/static/js/main.0aeb642e.chunk.js"
   },
   {
     "revision": "98fae294dabfb7543782",
@@ -48,12 +48,8 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/laptop3.d2ce259c.jpg"
   },
   {
-    "revision": "eae662b83e40fddef47761434cc0fb37",
-    "url": "/personal-website/static/media/bnazanin-webfont.eae662b8.woff"
-  },
-  {
-    "revision": "eea61f7f24e3bdc49fd1d24d3ba105b6",
-    "url": "/personal-website/static/media/bnazanin-webfont.eea61f7f.woff2"
+    "revision": "bd7b29f82a839b69985bc9a39aea12a5",
+    "url": "/personal-website/static/media/colorful-background.bd7b29f8.jfif"
   },
   {
     "revision": "6432364809c324199b9297576e6eafa0",
@@ -64,8 +60,12 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/colorful-background3.e0ebc00f.jfif"
   },
   {
-    "revision": "bd7b29f82a839b69985bc9a39aea12a5",
-    "url": "/personal-website/static/media/colorful-background.bd7b29f8.jfif"
+    "revision": "eae662b83e40fddef47761434cc0fb37",
+    "url": "/personal-website/static/media/bnazanin-webfont.eae662b8.woff"
+  },
+  {
+    "revision": "eea61f7f24e3bdc49fd1d24d3ba105b6",
+    "url": "/personal-website/static/media/bnazanin-webfont.eea61f7f.woff2"
   },
   {
     "revision": "0313a623c0b92aa028ae2c4018ad2909",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/Moon.56f5cfcc.png"
   },
   {
-    "revision": "edbcbf553d4d5b709b8badcbfe85c223",
+    "revision": "cd5c89800e5610be57f98fbc0c394a34",
     "url": "/personal-website/index.html"
   }
 ];
