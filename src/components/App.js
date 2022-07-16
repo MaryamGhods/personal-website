@@ -23,11 +23,6 @@ function App(){
     }
   }
 
-  // document.querySelector('.up-btn').addEventListener('click',()=>{
-  //   document.querySelector('.up-btn .up').style.display = "none";
-  //   document.querySelector('.up-btn .iconify').style.display = "block";
-  // });
-
   const [readyFlag , setReadyFlag]  = useState(true);
 
   setTimeout(()=>{
@@ -47,7 +42,7 @@ function App(){
             <SectionSeprator src={require("../images/Moon.png")}/>
             <Services />
             <SectionSeprator src={require("../images/Cloud.png")}/>
-            {/* <Works /> */}
+            <Works />
             <SectionSeprator src={require("../images/sun-cloud.png")}/>
             <Contact />
           </main>

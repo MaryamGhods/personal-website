@@ -34,6 +34,7 @@ body{
     font-family: 'Vazirmatn', sans-serif;
     overflow-x: hidden;
     background: var(--white);
+    position: relative;
 }
 a{
     text-decoration: none;
@@ -728,8 +729,9 @@ footer .text{
     -o-transition: all 0.2s ease-in;
 }
 .up-btn.active{
-    display: block;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;}
 .up-btn .up{
     display: none;
     font-size: 24px;
@@ -1403,6 +1405,13 @@ footer .text{
     .posts {
         height: 380px;
     }
+    .up-btn:focus{
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+}
     .swiper {
         width: 80%;
         margin: 0 10% !important;
