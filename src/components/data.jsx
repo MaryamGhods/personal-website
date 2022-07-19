@@ -4,7 +4,7 @@ import picture3 from "../images/Sign Up.png";
 import picture4 from "../images/Calculator.png";
 import picture5 from "../images/Personal website.png";
 
-const works_info = [
+const websites = [
     {
       site_image_src : picture1,
       site_title : "صفحه ورود",
@@ -32,4 +32,12 @@ const works_info = [
     }, 
 ];
 
-export default works_info;
+const designs = [
+    {
+        site_image_src : "",
+        site_title : "تست",
+        site_url : ""
+    }
+]
+
+export {websites , designs};

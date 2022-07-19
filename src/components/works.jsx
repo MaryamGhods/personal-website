@@ -1,11 +1,8 @@
-import React from "react";
-import data from "./data";
-import { Swiper, SwiperSlide } from '../../node_modules/swiper/react/swiper-react';
-import { Navigation, Scrollbar} from '../../node_modules/swiper/swiper.esm';
-// import 'swiper/css' ;
-// import 'swiper/css/navigation';
-import '../../node_modules/swiper/swiper.min.css';
-import '../../node_modules/swiper/modules/navigation/navigation.min.css';
+import {websites , designs} from "./data";
+import { Navigation } from 'swiper';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css' ;
+import 'swiper/css/navigation';
 
 function Create_card(work){
     return(
@@ -32,8 +29,9 @@ function Works(){
                         <h1 class="heading1">نمونه کار پیاده سازی سایت</h1>
                             <div class="posts">
                                 <Swiper
-                                    modules={[Navigation,Scrollbar]}
-                                    navigation
+                                    modules={[Navigation]}
+                                    class="swiper-container"
+                                    navigation="true"
                                     loop="true"
                                     breakpoints={{
                                         1000:{
@@ -47,12 +45,12 @@ function Works(){
                                         }
                                     }}
                                     >
-                                        {data.map(Create_card)}
+                                        {websites.map(Create_card)}
                                 </Swiper>
                             </div>
-                        <h1 class="heading1">نمونه کار UI / UX</h1>
+                        {/* <h1 class="heading1">نمونه کار UI / UX</h1>
                             <div class="posts">
-                            <Swiper
+                                <Swiper
                                     modules={[Navigation,Scrollbar]}
                                     navigation
                                     loop="true"
@@ -68,9 +66,9 @@ function Works(){
                                         }
                                     }}
                                     >
-                                        {data.map(Create_card)}
+                                        {designs.map(Create_card)}
                                 </Swiper>
-                            </div>                    
+                            </div>                     */}
                 </div>
             </div>
         </div>

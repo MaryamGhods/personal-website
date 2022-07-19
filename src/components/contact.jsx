@@ -39,22 +39,22 @@ function Contact(){
                         </p>
                         <p>و یا میتونید فرم رو تکمیل کنید تا در اسرع وقت با شما تماس بگیرم!</p>
                         <div class="social-medias">
-                            <div class="icon">
+                            <a class="icon" href="https://youtube.com/channel/UCORKvTA4dWeqyIDS0yj3zAw" target="_blank" rel="noopener noreferrer">
                                 <span class="iconify" data-icon="akar-icons:youtube-fill" data-width="60" data-height="60"></span>
                                 <span class="icon-name">Youtube</span>
-                            </div>
-                            <div class="icon">
+                            </a>
+                            <a class="icon" href="https://discord.gg/Dqm3zxad" target="_blank" rel="noopener noreferrer">
                                 <span class="iconify" data-icon="bi:discord" data-width="60" data-height="60"></span>
                                 <span class="icon-name">Discord</span>
-                            </div>
-                            <div class="icon">
+                            </a>
+                            <a class="icon" href="https://www.linkedin.com/in/maryam-gh-398455224" target="_blank" rel="noopener noreferrer">
                                 <span class="iconify" data-icon="akar-icons:linkedin-v1-fill" data-width="60" data-height="60"></span>
                                 <span class="icon-name">Linkedin</span>
-                            </div>
-                            <div class="icon">
+                            </a>
+                            <a class="icon" href="https://wa.me/+989211274790" target="_blank" rel="noopener noreferrer">
                                 <span class="iconify" data-icon="cib:whatsapp" data-width="60" data-height="60"></span>
                                 <span class="icon-name">Whatsapp</span>
-                            </div>
+                            </a>
                         </div>
                     </div>
 
