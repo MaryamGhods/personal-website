@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f7b301b3.css",
-    "main.js": "./static/js/main.669521e6.js",
+    "main.css": "./static/css/main.dae8c0cb.css",
+    "main.js": "./static/js/main.4bc3ca66.js",
     "static/js/787.c4e7f8f9.chunk.js": "./static/js/787.c4e7f8f9.chunk.js",
     "static/media/Personal website.png": "./static/media/Personal website.349118d46358dd931d8a.png",
     "static/media/Landing Page.png": "./static/media/Landing Page.49a3e9305ba2ac7403e9.png",
@@ -10,28 +10,29 @@
     "static/media/Calculator.png": "./static/media/Calculator.cd491bdcfe1b9252bfff.png",
     "static/media/laptop3.jpg": "./static/media/laptop3.71cf8e7b1d1d242c3edc.jpg",
     "static/media/laptop2.jpg": "./static/media/laptop2.a9f6d5daffb616210e60.jpg",
+    "static/media/resume.pdf": "./static/media/resume.f828ab62aa92053deaa6.pdf",
+    "static/media/Introduction.png": "./static/media/Introduction.58e99f9e5b678797dbb7.png",
     "static/media/laptop1.png": "./static/media/laptop1.2643d9c553468f031139.png",
     "static/media/Credit Card Checkout.png": "./static/media/Credit Card Checkout.8caf062d21a1dd76db21.png",
+    "static/media/timer.png": "./static/media/timer.2e0cdaeb2bc87b6392d7.png",
     "static/media/colorful-background2.jfif": "./static/media/colorful-background2.08f3536850871cb6c0d8.jfif",
     "static/media/Sign Up.png": "./static/media/Sign Up.e9edcb570358de6717fe.png",
     "static/media/winking_face.gif": "./static/media/winking_face.fa54a3ac1b7f98196679.gif",
     "static/media/colorful-background.jfif": "./static/media/colorful-background.d6864b69e17e89ebd8fd.jfif",
-    "static/media/colorful-background3.jfif": "./static/media/colorful-background3.d39e60bd7e265330a588.jfif",
     "static/media/personal.png": "./static/media/personal.06d18edbceac5ae8ba90.png",
     "static/media/teaching.png": "./static/media/teaching.a1b812a8f865ff64e552.png",
     "static/media/designing.png": "./static/media/designing.0c8b56091b7da459a11f.png",
     "static/media/coding.png": "./static/media/coding.701f8e24e8006436bd7b.png",
-    "static/media/Moon.png": "./static/media/Moon.74cce1f15a384d0e0080.png",
     "static/media/personal2.png": "./static/media/personal2.e72f1f83c6667f9acad0.png",
     "static/media/bnazanin-webfont.woff": "./static/media/bnazanin-webfont.16787705a5059cc18d4b.woff",
     "static/media/bnazanin-webfont.woff2": "./static/media/bnazanin-webfont.ff12a3fbfe3149d1291a.woff2",
     "index.html": "./index.html",
-    "main.f7b301b3.css.map": "./static/css/main.f7b301b3.css.map",
-    "main.669521e6.js.map": "./static/js/main.669521e6.js.map",
+    "main.dae8c0cb.css.map": "./static/css/main.dae8c0cb.css.map",
+    "main.4bc3ca66.js.map": "./static/js/main.4bc3ca66.js.map",
     "787.c4e7f8f9.chunk.js.map": "./static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7b301b3.css",
-    "static/js/main.669521e6.js"
+    "static/css/main.dae8c0cb.css",
+    "static/js/main.4bc3ca66.js"
   ]
 }
