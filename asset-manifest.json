@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.dae8c0cb.css",
-    "main.js": "./static/js/main.b7b2ea53.js",
+    "main.js": "./static/js/main.4bc3ca66.js",
     "static/js/787.c4e7f8f9.chunk.js": "./static/js/787.c4e7f8f9.chunk.js",
     "static/media/Personal website.png": "./static/media/Personal website.349118d46358dd931d8a.png",
     "static/media/Landing Page.png": "./static/media/Landing Page.49a3e9305ba2ac7403e9.png",
@@ -14,6 +14,7 @@
     "static/media/Introduction.png": "./static/media/Introduction.58e99f9e5b678797dbb7.png",
     "static/media/laptop1.png": "./static/media/laptop1.2643d9c553468f031139.png",
     "static/media/Credit Card Checkout.png": "./static/media/Credit Card Checkout.8caf062d21a1dd76db21.png",
+    "static/media/timer.png": "./static/media/timer.2e0cdaeb2bc87b6392d7.png",
     "static/media/colorful-background2.jfif": "./static/media/colorful-background2.08f3536850871cb6c0d8.jfif",
     "static/media/Sign Up.png": "./static/media/Sign Up.e9edcb570358de6717fe.png",
     "static/media/winking_face.gif": "./static/media/winking_face.fa54a3ac1b7f98196679.gif",
@@ -27,11 +28,11 @@
     "static/media/bnazanin-webfont.woff2": "./static/media/bnazanin-webfont.ff12a3fbfe3149d1291a.woff2",
     "index.html": "./index.html",
     "main.dae8c0cb.css.map": "./static/css/main.dae8c0cb.css.map",
-    "main.b7b2ea53.js.map": "./static/js/main.b7b2ea53.js.map",
+    "main.4bc3ca66.js.map": "./static/js/main.4bc3ca66.js.map",
     "787.c4e7f8f9.chunk.js.map": "./static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dae8c0cb.css",
-    "static/js/main.b7b2ea53.js"
+    "static/js/main.4bc3ca66.js"
   ]
 }
